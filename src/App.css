@@ -1,0 +1,16 @@
+.container{
+    overflow: hidden;
+      background-color: grey;
+        position:sticky;
+          top: 0;
+            width: 100%;
+            margin:0px 0px 10px 0px;
+            text-align:center;
+            display: block;
+}
+.per{
+    text-align:center;
+}
+.ked{
+    text-align:center;
+}
